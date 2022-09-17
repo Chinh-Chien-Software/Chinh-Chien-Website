@@ -4,4 +4,14 @@ nav {
 
 li {
     list-style: none;
+    display : inline;
+    padding: 10px;
+}
+
+a:active {
+    color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
 }
