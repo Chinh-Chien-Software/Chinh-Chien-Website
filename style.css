@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+nav {
+    background-color: rgb(141, 164, 156);
+=======
 ul {
     list-style-type: none;
     margin: 0;
@@ -30,4 +34,5 @@ a {
 #signin-button {
     float: right;
     margin-right: 10px;
+>>>>>>> Stashed changes
 }
