@@ -1,0 +1,38 @@
+<<<<<<< Updated upstream
+nav {
+    background-color: rgb(141, 164, 156);
+=======
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Hiện background */
+    background-color: rgb(149, 169, 75);;
+}
+
+li {
+    display : inline;
+    float: left;
+}
+
+a:active {
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    background-color: rgb(39, 69, 58);
+    color: rgb(255, 255, 255);
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    background-color: rgb(149, 169, 75);
+    padding: 10px;
+}
+
+#signin-button {
+    float: right;
+    margin-right: 10px;
+>>>>>>> Stashed changes
+}
